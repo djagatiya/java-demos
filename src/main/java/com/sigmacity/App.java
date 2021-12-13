@@ -2,6 +2,7 @@ package com.sigmacity;
 
 import com.sigmacity.designpatterns.factory.FactoryDemo1;
 import com.sigmacity.designpatterns.singleton.SingletonDemo1;
+import com.sigmacity.designpatterns.strategy.StrategyDemo1;
 
 /**
  * Hello world!
@@ -10,6 +11,7 @@ import com.sigmacity.designpatterns.singleton.SingletonDemo1;
 public class App {
 	public static void main(String[] args) {
 		// SingletonDemo1.main(args);
-		FactoryDemo1.main(args);
+		// FactoryDemo1.main(args);
+		StrategyDemo1.main(args);
 	}
 }
