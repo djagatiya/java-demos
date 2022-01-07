@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.sigmacity.designpatterns.factory;
+package com.designpatterns.factory;
 
 /**
  * @author divye

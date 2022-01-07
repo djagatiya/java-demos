@@ -1,4 +1,4 @@
-package com.sigmacity.designpatterns.strategy;
+package com.designpatterns.strategy;
 
 interface Payment {
 	void pay(int amount);

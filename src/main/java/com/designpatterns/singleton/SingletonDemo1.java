@@ -1,4 +1,4 @@
-package com.sigmacity.designpatterns.singleton;
+package com.designpatterns.singleton;
 
 /**
  * 1. Ensure that only one object of it's kind

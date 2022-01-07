@@ -1,4 +1,4 @@
-package com.sigmacity;
+package com;
 
 import com.sigmacity.designpatterns.factory.FactoryDemo1;
 import com.sigmacity.designpatterns.singleton.SingletonDemo1;
