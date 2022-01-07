@@ -1,8 +1,8 @@
 package com;
 
-import com.sigmacity.designpatterns.factory.FactoryDemo1;
-import com.sigmacity.designpatterns.singleton.SingletonDemo1;
-import com.sigmacity.designpatterns.strategy.StrategyDemo1;
+import com.designpatterns.factory.FactoryDemo1;
+import com.designpatterns.singleton.SingletonDemo1;
+import com.designpatterns.strategy.StrategyDemo1;
 
 /**
  * Hello world!
